@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React 
 - 💬 Ask me about competitive programming (Codechef)
 - 📫 How to reach me: mayurgarud06@gmail.com
-- ⚡ Fun fact: Getting to know about new Tech, you will become nobe..!!
+- ⚡ Fun fact: Getting to know about new Tech, you will become noob..!!
 
